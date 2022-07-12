@@ -1,4 +1,4 @@
-import Lector from "../src/Lector";
+import Lector from "../src/Lector"
 import { ILectorDeTarjeta } from "../src/interfaces";
 import EstacionamientoFalso from "../mocks/EstacionamientoFalso";
 
